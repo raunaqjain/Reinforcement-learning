@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+*.zip
+pdfs/
+aws-robomaker-sample-application-deepracer/
